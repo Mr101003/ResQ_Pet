@@ -22,7 +22,7 @@
               About us
             </h2>
             <p>
-              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomisedThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised
+                Kami adalah tim yang berdedikasi untuk menyelamatkan dan merawat hewan-hewan yang membutuhkan. Dengan berbagai pengalaman dan keahlian dalam bidang penyelamatan hewan, kami berkomitmen untuk memberikan layanan terbaik dan memastikan setiap hewan mendapatkan kasih sayang dan perawatan yang layak. Misi kami adalah menciptakan lingkungan yang aman dan penuh kasih untuk semua hewan. Bersama kita bisa membuat perbedaan nyata dalam kehidupan hewan-hewan ini.
             </p>
             <a href="">
               Read More
@@ -57,7 +57,7 @@
                       <i class="fa fa-map-marker" aria-hidden="true"></i>
                     </div>
                     <p>
-                      Lorem Ipsum is simply dummy text
+                      Alamat
                     </p>
                   </div>
                 </a>
