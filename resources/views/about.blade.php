@@ -13,7 +13,7 @@
 
   <!-- about section -->
 
-  <section class="about_section layout_padding">
+  <section class="about_section layout_padding-bottom">
     <div class="container">
       <div class="row">
         <div class="col-lg-5 col-md-6">
@@ -31,12 +31,12 @@
         </div>
         <div class="col-lg-7 col-md-6">
           <div class="img-box">
-            <img src="images/about-img.jpg" alt="">
+            <img src="images/ResQ4.png" alt="">
           </div>
         </div>
       </div>
     </div>
-  </section>
+  </section> 
 
   <!-- end about section -->
 

@@ -487,6 +487,9 @@ a:focus {
   background-color: #d1e3ff;
   color: #000000;
 }
+.service_section h2{
+  color: #0355cc;
+}
 
 .service_section .box {
   margin-top: 30px;
@@ -601,8 +604,11 @@ a:focus {
 
 .client_section .box .client_id .img-box {
   width: 125px;
-  min-width: 125px;
+  /* min-width: 125px; */
+  height: 125px;
+  /* min-width: 125px; */
   margin-right: 15px;
+  margin-top: 25px;
 }
 
 .client_section .box .client_id .img-box img {
@@ -626,16 +632,14 @@ a:focus {
   padding-right: 25px;
 }
 
-.client_section .box .client_id .client_detail .client_info h6 {
-  margin-bottom: 0;
+.client_section .box .client_id .client_detail .client_info h4 {
+  margin-bottom: 1em;
+  font-weight: bold;
 }
 
-.client_section .box .client_id .client_detail .client_info i {
-  color: #fbaf5d;
-}
 
 .client_section .box .client_text {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .client_section .owl-carousel .owl-nav {

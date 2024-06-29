@@ -215,7 +215,7 @@
             </div>
             <div class="detail-box">
               <h5>
-                Maintenance
+                Reporting
               </h5>
               <p>
                 when looking at its layout. The point of using Lorem Ipsum is
@@ -231,7 +231,7 @@
             </div>
             <div class="detail-box">
               <h5>
-                Electrical
+                Rescueing
               </h5>
               <p>
                 when looking at its layout. The point of using Lorem Ipsum is
@@ -247,7 +247,7 @@
             </div>
             <div class="detail-box">
               <h5>
-                Plumbing
+                Sheltering
               </h5>
               <p>
                 when looking at its layout. The point of using Lorem Ipsum is
@@ -271,7 +271,7 @@
     <div class="container">
       <div class="heading_container heading_center">
         <h2 style="padding-top: 5rem">
-          What Our Clients Say
+          Our Impact
         </h2>
       </div>
       <div class="carousel-wrap layout_padding2-top ">
@@ -280,26 +280,20 @@
             <div class="box">
               <div class="client_id">
                 <div class="img-box">
-                  <img src="images/client-1.jpg" alt="">
+                  <img src="images/oyen.png" alt="">
                 </div>
                 <div class="client_detail">
                   <div class="client_info">
-                    <h6>
-                      Jorch morik
-                    </h6>
-                    <i class="fa fa-star" aria-hidden="true"></i>
-                    <i class="fa fa-star" aria-hidden="true"></i>
-                    <i class="fa fa-star" aria-hidden="true"></i>
-                    <i class="fa fa-star" aria-hidden="true"></i>
-                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <h4>
+                      Oyen
+                    </h4>
+                    <div class="client_text">
+                      <p>
+                        chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum
+                      </p>
+                    </div>
                   </div>
-                  <i class="fa fa-quote-left" aria-hidden="true"></i>
                 </div>
-              </div>
-              <div class="client_text">
-                <p>
-                  chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum
-                </p>
               </div>
             </div>
           </div>
@@ -307,26 +301,20 @@
             <div class="box">
               <div class="client_id">
                 <div class="img-box">
-                  <img src="images/client-2.jpg" alt="">
+                  <img src="images/oyen2.png" alt="">
                 </div>
                 <div class="client_detail">
                   <div class="client_info">
-                    <h6>
-                      Jorch morik
-                    </h6>
-                    <i class="fa fa-star" aria-hidden="true"></i>
-                    <i class="fa fa-star" aria-hidden="true"></i>
-                    <i class="fa fa-star" aria-hidden="true"></i>
-                    <i class="fa fa-star" aria-hidden="true"></i>
-                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <h4>
+                      Oyen
+                    </h4>
+                    <div class="client_text">
+                      <p>
+                        chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum
+                      </p>
+                    </div>
                   </div>
-                  <i class="fa fa-quote-left" aria-hidden="true"></i>
                 </div>
-              </div>
-              <div class="client_text">
-                <p>
-                  chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum
-                </p>
               </div>
             </div>
           </div>
@@ -334,26 +322,20 @@
             <div class="box">
               <div class="client_id">
                 <div class="img-box">
-                  <img src="images/client-1.jpg" alt="">
+                  <img src="images/oyen3.png" alt="">
                 </div>
                 <div class="client_detail">
                   <div class="client_info">
-                    <h6>
-                      Jorch morik
-                    </h6>
-                    <i class="fa fa-star" aria-hidden="true"></i>
-                    <i class="fa fa-star" aria-hidden="true"></i>
-                    <i class="fa fa-star" aria-hidden="true"></i>
-                    <i class="fa fa-star" aria-hidden="true"></i>
-                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <h4>
+                      Oyen
+                    </h4>
+                    <div class="client_text">
+                      <p>
+                        chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum
+                      </p>
+                    </div>
                   </div>
-                  <i class="fa fa-quote-left" aria-hidden="true"></i>
                 </div>
-              </div>
-              <div class="client_text">
-                <p>
-                  chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum
-                </p>
               </div>
             </div>
           </div>
@@ -361,26 +343,20 @@
             <div class="box">
               <div class="client_id">
                 <div class="img-box">
-                  <img src="images/client-2.jpg" alt="">
+                  <img src="images/oyen4.png" alt="">
                 </div>
                 <div class="client_detail">
                   <div class="client_info">
-                    <h6>
-                      Jorch morik
-                    </h6>
-                    <i class="fa fa-star" aria-hidden="true"></i>
-                    <i class="fa fa-star" aria-hidden="true"></i>
-                    <i class="fa fa-star" aria-hidden="true"></i>
-                    <i class="fa fa-star" aria-hidden="true"></i>
-                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <h4>
+                      Oyen
+                    </h4>
+                    <div class="client_text">
+                      <p>
+                        chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum
+                      </p>
+                    </div>
                   </div>
-                  <i class="fa fa-quote-left" aria-hidden="true"></i>
                 </div>
-              </div>
-              <div class="client_text">
-                <p>
-                  chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum
-                </p>
               </div>
             </div>
           </div>
