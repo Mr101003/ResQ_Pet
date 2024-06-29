@@ -60,7 +60,7 @@
             Repair
           </h5>
         </div>
-        <div class="box active">
+        <div class="box">
           <div class="img-box">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="512" height="512">
               <g id="paint-painted-paint_roller-home-house" data-name="paint-painted-paint roller-home-house">
@@ -109,24 +109,22 @@
         </div>
         <div class="col-lg-7 col-md-6">
           <div class="img-box">
-            <img src="images/about-img.jpg" alt="">
+            <img src="images/ResQ2.png" alt="">
           </div>
         </div>
       </div>
     </div>
   </section>
-
   <!-- end about section -->
 
 
   <!-- professional section -->
-
   <section class="professional_section layout_padding">
     <div class="container">
       <div class="row">
         <div class="col-md-6">
           <div class="img-box">
-            <img src="images/professional-img.png" alt="">
+            <img src="images/ResQ3.png" alt="">
           </div>
         </div>
         <div class="col-md-6 ">
@@ -146,11 +144,64 @@
       </div>
     </div>
   </section>
+  <!-- end professional section -->
 
+  <!-- about section -->
+  <section class="about_section layout_padding-bottom">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-5 col-md-6">
+          <div class="detail-box">
+            <h2>
+              About us
+            </h2>
+            <p>
+              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomisedThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised
+            </p>
+            <a href="">
+              Read More
+            </a>
+          </div>
+        </div>
+        <div class="col-lg-7 col-md-6">
+          <div class="img-box">
+            <img src="images/ResQ4.png" alt="">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section> 
+  <!-- end about section -->
+
+  <!-- professional section -->
+  <section class="professional_section layout_padding">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="img-box">
+            <img src="images/ResQ5.png" alt="">
+          </div>
+        </div>
+        <div class="col-md-6 ">
+          <div class="detail-box">
+            <h2>
+              We Provide Professional <br>
+              Home Services.
+            </h2>
+            <p>
+              randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All randomised words which don't look even slightly
+            </p>
+            <a href="">
+              Read More
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
   <!-- end professional section -->
 
   <!-- service section -->
-
   <section class="service_section layout_padding">
     <div class="container ">
       <div class="heading_container heading_center">
@@ -213,15 +264,13 @@
       </div>
     </div>
   </section>
-
   <!-- end service section -->
 
   <!-- client section -->
-
   <section class="client_section ">
     <div class="container">
       <div class="heading_container heading_center">
-        <h2>
+        <h2 style="padding-top: 5rem">
           What Our Clients Say
         </h2>
       </div>
@@ -339,16 +388,14 @@
       </div>
     </div>
   </section>
-
   <!-- end client section -->
 
   <!-- contact section -->
-
   <section class="contact_section layout_padding">
     <div class="container">
       <div class="heading_container">
         <h2>
-          Contact Us
+          Pelaporan
         </h2>
       </div>
       <div class="row">
