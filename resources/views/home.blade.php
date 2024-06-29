@@ -3,7 +3,7 @@
 @section('title', 'Home Page')
 
 @section('content')
-    
+
 
 
 <body>
@@ -21,7 +21,7 @@
                 Report & Rescue
               </h1>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui harum voluptatem adipisci. Quos molestiae saepe dicta nobis pariatur, tempora iusto, ad possimus soluta hic praesentium mollitia consequatur beatae, aspernatur culpa.
+                Kami menyediakan layanan pelaporan dan penyelamatan hewan yang membutuhkan. Jika Anda menemukan hewan yang terlantar atau dalam bahaya, segera laporkan kepada kami. Tim kami akan segera bertindak untuk menyelamatkan dan merawat hewan tersebut. Kami berdedikasi untuk memastikan setiap hewan mendapatkan perlindungan dan perawatan yang layak. Bersama kita bisa membuat perubahan positif untuk kesejahteraan hewan.
               </p>
               <a href="{{ route('contact') }}">
                 Report now
@@ -97,10 +97,13 @@
         <div class="col-lg-5 col-md-6">
           <div class="detail-box">
             <h2>
-              About us
+                ONLINE ADOPTION
             </h2>
             <p>
-              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomisedThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised
+                ResQ Pet memudahkan Anda untuk menemukan teman berbulu baru tanpa harus meninggalkan rumah.
+                Kami menyediakan profil lengkap hewan yang siap diadopsi,
+                termasuk riwayat kesehatan, kepribadian, dan kebutuhan khusus mereka. Dengan proses yang mudah dan transparan,
+                Anda bisa memberikan rumah baru yang penuh kasih sayang untuk hewan-hewan yang membutuhkan.
             </p>
             <a href="">
               Read More
@@ -130,11 +133,11 @@
         <div class="col-md-6 ">
           <div class="detail-box">
             <h2>
-              We Provide Professional <br>
-              Home Services.
+                WE PROVIDE PROFESSIONAL
+                HOME SERVICES. <br>
             </h2>
             <p>
-              randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All randomised words which don't look even slightly
+                Kami menyediakan layanan profesional untuk rumah Anda. Jika Anda membutuhkan layanan perawatan hewan peliharaan yang berkualitas, Anda bisa mengandalkan kami. Kami memastikan setiap layanan yang kami berikan dapat memenuhi kebutuhan hewan peliharaan Anda dengan baik. Semua kata yang digunakan dalam deskripsi ini sudah disesuaikan agar tidak ada hal yang membingungkan atau memalukan. Anda bisa yakin bahwa layanan kami adalah yang terbaik dan terpercaya.
             </p>
             <a href="">
               Read More
@@ -153,24 +156,27 @@
         <div class="col-lg-5 col-md-6">
           <div class="detail-box">
             <h2>
-              About us
+                Volunteer Registration
             </h2>
             <p>
-              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomisedThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised
+                Fitur Pendaftaran Relawan pada resq pet memudahkan Anda untuk bergabung dengan komunitas kami.
+                Bergabunglah dengan tim kami untuk membantu hewan-hewan yang membutuhkan perhatian dan perawatan. Melalui fitur ini,
+                Anda dapat mengisi formulir pendaftaran, mengetahui lebih banyak tentang peran relawan, dan mendapatkan informasi terbaru mengenai kegiatan dan acara mendatang.
+                Mari bersama-sama membuat perbedaan bagi kehidupan hewan-hewan yang memerlukan bantuan.
             </p>
             <a href="">
-              Read More
+            Read More
             </a>
-          </div>
+        </div>
         </div>
         <div class="col-lg-7 col-md-6">
-          <div class="img-box">
+        <div class="img-box">
             <img src="images/ResQ4.png" alt="">
           </div>
         </div>
       </div>
     </div>
-  </section> 
+  </section>
   <!-- end about section -->
 
   <!-- professional section -->
@@ -185,18 +191,21 @@
         <div class="col-md-6 ">
           <div class="detail-box">
             <h2>
-              We Provide Professional <br>
-              Home Services.
+            We Provide Professional <br>
+            Home Services.
             </h2>
             <p>
-              randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All randomised words which don't look even slightly
+                Kami menyediakan layanan profesional untuk rumah Anda. Jika Anda membutuhkan layanan perawatan hewan peliharaan yang berkualitas,
+                Anda bisa mengandalkan kami. Kami memastikan setiap layanan yang kami berikan dapat memenuhi kebutuhan hewan peliharaan Anda dengan baik.
+                Semua kata yang digunakan dalam deskripsi ini sudah disesuaikan agar tidak ada hal yang membingungkan atau memalukan.
+                Anda bisa yakin bahwa layanan kami adalah yang terbaik dan terpercaya.
             </p>
             <a href="">
-              Read More
+            Read More
             </a>
-          </div>
         </div>
-      </div>
+        </div>
+    </div>
     </div>
   </section>
   <!-- end professional section -->
@@ -218,8 +227,8 @@
                 Reporting
               </h5>
               <p>
-                when looking at its layout. The point of using Lorem Ipsum is
-                that it has a more-or-less normal
+                Pemeliharaan adalah layanan kami yang memastikan kesehatan dan kenyamanan
+                hewan peliharaan Anda dengan perawatan rutin dan pembersihan secara berkala.
               </p>
             </div>
           </div>
@@ -227,15 +236,19 @@
         <div class="col-sm-6 col-md-4 mx-auto">
           <div class="box ">
             <div class="img-box">
-              <img src="images/s2.png" alt="" />
+              <img src="images/donation.png" alt="" />
             </div>
             <div class="detail-box">
               <h5>
+<<<<<<< HEAD
                 Rescueing
+=======
+                Donation
+>>>>>>> 541cddbc09c888327ac8fb66e0a82b938179a3c9
               </h5>
               <p>
-                when looking at its layout. The point of using Lorem Ipsum is
-                that it has a more-or-less normal
+                Donasi membantu kami dalam menyediakan perawatan dan tempat tinggal yang lebih baik
+                untuk hewan-hewan yang membutuhkan dan donasi hewan-hewan yang terlantar. Setiap kontribusi sangat berarti bagi mereka.
               </p>
             </div>
           </div>
@@ -247,11 +260,15 @@
             </div>
             <div class="detail-box">
               <h5>
+<<<<<<< HEAD
                 Sheltering
+=======
+                // Growming
+>>>>>>> 541cddbc09c888327ac8fb66e0a82b938179a3c9
               </h5>
               <p>
-                when looking at its layout. The point of using Lorem Ipsum is
-                that it has a more-or-less normal
+                Grooming adalah layanan perawatan untuk menjaga kebersihan dan penampilan hewan peliharaan Anda,
+                termasuk mandi, pemotongan bulu, dan perawatan kuku.
               </p>
             </div>
           </div>
@@ -427,7 +444,7 @@
                       <i class="fa fa-map-marker" aria-hidden="true"></i>
                     </div>
                     <p>
-                      Lorem Ipsum is simply dummy text
+                    Maps
                     </p>
                   </div>
                 </a>
